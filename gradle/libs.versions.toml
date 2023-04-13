@@ -16,7 +16,7 @@
 kotlin = "1.8.20"
 okhttp = "3.14.9"
 protobuf = "3.22.3"
-robovm = "2.3.14"
+robovm = "2.3.19"
 
 [plugins]
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
