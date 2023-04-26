@@ -157,7 +157,7 @@
       <dependency>
         <groupId>com.squareup.wire</groupId>
         <artifactId>wire-runtime</artifactId>
-        <version>${wire.version}</version>
+        <version>3.0.2</version>
       </dependency>
       <dependency>
         <groupId>org.simpleframework</groupId>
